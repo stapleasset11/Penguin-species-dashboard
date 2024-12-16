@@ -1,0 +1,6 @@
+# Welcome
+
+This page is completely static.
+This means that you cannot interact with the charts and tables.
+I admit it's not all that interesting but it's fortunately really easy to setup.
+The tables are created with `{gt}` and the charts with `{ggplot}`
